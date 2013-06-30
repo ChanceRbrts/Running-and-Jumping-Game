@@ -7,4 +7,8 @@ You can not stop running or jumping.
 You can also use the arrow keys to change your direction...
 Besides that, it's also glitchy, with bad double-buffering.
 
+
+"Note:  I'll try to dig up stuff on double buffering in Java, but we should also get Tritan67 working on this."
+--mfragin
+
 Alpha Version 0.00
